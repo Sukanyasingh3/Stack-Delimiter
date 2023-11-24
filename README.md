@@ -32,6 +32,7 @@ To explore Stack Delimiter, follow these steps:
 ## Contribution Guidelines
 
 Contributions are welcome! If you'd like to contribute to Stack Delimiter, please follow these guidelines:
+
 ![GIT3](https://github.com/Sukanyasingh3/Stack-Delimiter/assets/113462236/860c967a-621b-4a9d-ad86-3b5510330661)
 
 1. Fork the repository.
